@@ -52,7 +52,7 @@ The project contains two main folders:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/hamza-prof/ATM_Weapon_Detection_Using_CCTV.git
+git clone https://github.com/hamza-prof/Weapon_Detection_IN_ATM_Using_CCTV.git
 cd ATM_Weapon_Detection_Using_CCTV
 ```
 
