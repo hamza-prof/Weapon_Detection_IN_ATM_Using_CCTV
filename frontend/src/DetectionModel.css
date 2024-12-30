@@ -1,0 +1,22 @@
+.detection-model-container {
+  position: relative;
+  width: 720px;
+  height: 500px;
+  max-width: 100%;
+}
+
+.detection-model-container > video {
+  display: none;
+  width: 100%;
+  max-width: 720px;
+  max-height: 500px;
+  border-radius: 10px;
+}
+
+.detection-model-container > canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
