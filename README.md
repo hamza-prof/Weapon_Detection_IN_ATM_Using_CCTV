@@ -13,7 +13,7 @@ The project contains two main folders:
 
 - The weapon detection model is based on YOLOv8, a state-of-the-art object detection model.
 - The model is trained to detect weapons (guns and knives) from images.
-- **Model Notebook**: You can access the YOLOv8 training notebook [here](https://colab.research.google.com/drive/1fQVjIfndrnRiBuIjuXcnE7_WeIRdpZAu?usp=sharing).
+- **Model Notebook**: You can access the YOLOv8 training notebook .
 
 ### **Model Output:**
 - Model Summary (fused):
